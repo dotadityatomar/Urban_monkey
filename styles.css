@@ -4,16 +4,31 @@
     box-sizing: border-box;
 }
 
-/* header*/
-
-.header1{
-    display: flex;
+.adi1{
+    text-align: center;
     background-color: antiquewhite;
-    justify-content: space-around;
+    font-size: 16px;
+}
+.adi2 {
+    display: flex;
+    margin: 60px;
+    
+
+}
+#list1{
+    display: flex;
     
 }
-.header1 .logo img{
-    width: 200px;
-    height: 40px;
+.list2{
+    list-style-type: none;
+    margin-left: 40px;
 }
+#Search1{
+    margin-left: 50px ;
+    
+}
+
+
+
+
 
